@@ -158,7 +158,7 @@
                 class="h-4 w-4 text-[#1A3E7F] focus:ring-[#1A3E7F] border-gray-300 rounded"
               />
               <label class="ml-2 block text-sm text-gray-700">
-                I agree to the <a href="#" class="text-[#1A3E7F] hover:underline">Privacy Policy</a> and 
+                I agree to the <a href="/privacy-policy" class="text-[#1A3E7F] hover:underline">Privacy Policy</a> and 
                 <a href="#" class="text-[#1A3E7F] hover:underline">Terms of Service</a>
               </label>
             </div>

@@ -37,7 +37,7 @@
             <NavLink name="Contact Us" url="#" />
             <NavLink name="System Status" url="#" />
             <NavLink name="Area of Avaibility" url="#" />
-            <NavLink name="Privacy Policy" url="#" />
+            <NavLink name="Privacy Policy" url="/privacy-policy" />
           </ul>
         </div>
         <div
